@@ -20,3 +20,6 @@ print ("hello my team- it is agathe")
 print("good by - test 2")
 
 print("Dario is gay")
+
+print("Wael is the teacher")
+

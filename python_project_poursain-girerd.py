@@ -1,3 +1,9 @@
+# We decided to analyze the evolution of two stocks during a specific period of time, considering the covid 
+# pandemic crisis, with all the statistical tools analyzed during the course.
+# We have chosen AIRBUS and AIR-LIQUIDE as they are two big french companies, and therefore we took
+# also the CAC-40 index, from which these two companies  owes to, in order to have the possibility to graphically
+# compare their general trend.
+
 # upload the libraries to import data
 
 import pandas as pd 
